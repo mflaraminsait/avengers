@@ -2,4 +2,4 @@
 
 * Red skull
 * Dr Boom
-* Dr. Herrera
+* Capitán América
